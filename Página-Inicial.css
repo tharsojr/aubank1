@@ -1,0 +1,313 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/happy-man-using-smart-phone-while-relaxing-on-the-sofa-with-his-dog-who-is-yawning.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 835px;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  font-size: 3rem;
+  margin: 290px 653px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 27px 670px 0 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 305px;
+  min-height: 305px;
+  margin: -246px 94px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 19px 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.625rem;
+  margin: 41px 25px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin: 41px auto 0;
+  padding: 10px 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 689px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 453px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 470px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 233px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 250px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 396px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 53px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 70px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 249px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 340px;
+    margin-right: 35px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 729px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 2.8125rem;
+  font-weight: 500;
+  margin: 162px auto 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 480px;
+  height: 377px;
+  margin: -72px 0 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: -280px 608px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-family: Roboto, sans-serif;
+  margin: 25px auto 60px 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 408px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    border-style: solid;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 188px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 8px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 267px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 670px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.8125rem;
+  font-weight: 500;
+  margin: 162px auto 0 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 480px;
+  height: 377px;
+  margin: -112px 38px 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: -253px 794px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-family: Roboto, sans-serif;
+  margin: 38px auto 60px 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-2 {
+    margin-right: 594px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    border-style: solid;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 374px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-2 {
+    margin-right: 194px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 560px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 267px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/a-stylish-tattoed-blonde-female-in-t-shirt-and-jeans-embraces-two-cute-dogs.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 577px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 2.25rem;
+  line-height: 1.2;
+  margin: 169px 724px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-family: Roboto, sans-serif;
+  margin: 16px auto 60px 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 476px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 524px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 365px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 304px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 274px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 124px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 173px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+  }
+}
